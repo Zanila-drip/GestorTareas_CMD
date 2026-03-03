@@ -1,5 +1,6 @@
 void main()
 {
+    //Java cosas
     String version = "v1";
     Map<Integer, String> listaTareas = new HashMap<Integer, String>();
     int posicion = 0;
